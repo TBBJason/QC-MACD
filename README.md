@@ -1,0 +1,3 @@
+# manually copying and pasting code from Quantconnect cloud into VSCode and then into GitHub since I don't have a paid membership and can't access the API tokens...
+
+
